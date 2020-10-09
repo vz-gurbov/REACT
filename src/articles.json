@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "/images/coffee.jpg",
+        "title": "Wake up everyday with the best coffee cup",
+        "excerpt": "Learn everything about the greates coffee products on the market and choose the one you like the most.",
+        "category": "health and business"
+    },
+    {
+        "id": 2,
+        "image": "/images/holiday.jpg",
+        "title": "Take your time when you chill",
+        "excerpt": "Why we should keep calm when we are on holiday and what tips can be given form an experts.",
+        "category": "health and fun"
+    },
+    {
+        "id": 3,
+        "image": "/images/pineapple.jpg",
+        "title": "10 great advantages of the pineapple",
+        "excerpt": "We will look why the raw pineapple is a need for our daily menu and why it should not be blue",
+        "category": "art and food"
+    },
+    {
+        "id": 4,
+        "image": "/images/more.jpg",
+        "title": "We like your skill set and we will make you the best offer of your life",
+        "excerpt": "We will choose your for the position because you are highly motivated and hungry for success",
+        "category": "you are the one"
+    },
+    {
+        "id": 5,
+        "image": "/images/party.jpg",
+        "title": "The party after the approved job application and the road of glory",
+        "excerpt": "The career growth is based on dedication and self discipline - grow and think to be the best",
+        "category": "best is yet to come"
+    },
+    {
+        "id": 6,
+        "image": "/images/like.jpg",
+        "title": "We choosed you because you are not 100% prepared but still smart",
+        "excerpt": "If you practice enough you will reach the level of a well armed specialist with amazing knowledge",
+        "category": "we will call you"
+    }
+]
